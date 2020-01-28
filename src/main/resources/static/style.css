@@ -1,0 +1,51 @@
+menu a{
+    font-size: 20px;
+    padding: 0 10px;
+    color: white;
+}
+.header{
+    background-color:rgb(8, 190, 214);
+    overflow: auto;
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+    
+body{
+     margin: 0;
+    font-family: sans-serif;
+   
+}
+
+.banner{
+    width: 100%;
+ }
+
+ .produtos div{
+     width: 30%;
+     text-align: center;
+     ;
+ }
+ .produtos img{
+     width: 100%;
+     border-radius: 15px;
+ }
+
+ .produtos{
+    display: flex;
+    justify-content: space-around;
+ }
+
+ form{
+    width: 50%;
+    margin: auto;
+}
+
+input{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+}
